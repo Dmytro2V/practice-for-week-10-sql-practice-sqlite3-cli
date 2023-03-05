@@ -34,6 +34,7 @@ Exit the CLI.
 https://sqlite.org/cli.html
 </details>
 
+done
 ## Step 2: Run `sqlite3` to explore a database
 
 Start SQLite on a new database named __example.db__.
@@ -73,7 +74,7 @@ This should show you
 2|Yippee!!
 3|Yay!!!
 ```
-
+done
 ## Step 3: Show the column names in the results
 
 The SQLite3 CLI has configuration options that you can set, one of which is to
@@ -98,7 +99,7 @@ id|name
 2|Yippee!!
 3|Yay!!!
 ```
-
+done
 ## Step 4: Exit the CLI
 
 Use `Ctrl+d` to exit the cli.
@@ -107,3 +108,4 @@ Now your prompt should return to normal, which probably means it ends with "$"
 or "%".
 
 Congratulations! You have successfully used the SQLite3 CLI.
+done
